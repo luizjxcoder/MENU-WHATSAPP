@@ -1,0 +1,22 @@
+
+
+:root {
+        --color-background: #fffdf7;
+        --colpr-black: #212121;
+        --color-text: #af4f4f;
+        --color-text-out: #90908e;
+        --color-primary: #ffbf00;
+        --color-secundary: #fff2cc;
+        --color-white: #ffffff;
+        --color-red: #: #e74c3c;
+        --color-green: #2ecc71;
+        --color-separate: #cccccc;
+
+
+
+}
+
+html,
+body {
+        background-color: var(--color-background);
+}
