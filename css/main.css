@@ -11,7 +11,7 @@
 :root {
         --color-background: #fffdf7;
         --color-black: #212121;
-        --color-text: #af4f4f;
+        --color-text: #454545;
         --color-text-out: #90908e;
         --color-primary: #ffbf00;
         --color-secundary: #fff2cc;
@@ -30,6 +30,10 @@ body {
 
 b {
         font-family: "Poppins-Regular", "Rubik", sans-serif;
+}
+
+.color-primary {
+        color: var(--color-primary);
 }
 
 .nav-link {
