@@ -4,7 +4,7 @@
 }
 
 @font-face {
-        font-family: "PoppinsRegular";
+        font-family: "Poppins-Regular";
         src: url("../fonts/Poppins-Regular.otf");
 }
 
@@ -34,10 +34,9 @@ b {
 
 .color-primary {
         color: var(--color-primary);
-        
 }
 
-a .navbar-brand {
+.navbar-brand {
         margin-left: -25px;
 }
 
@@ -87,11 +86,16 @@ a .navbar-brand {
 
 .text-banner h1 {
         color: var(--color-black);
-        font-size: 20px;
+        font-size: 50px;
 }
 
 .text-banner p {
         margin-top: 15px;
         margin-bottom: 15px;
         font-size: 20px;
+}
+
+.btn-yellow {
+        background-color: var(--color-primary);
+        color: var(--color-white) !important;
 }
