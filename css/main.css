@@ -34,6 +34,7 @@ b {
 
 .color-primary {
         color: var(--color-primary);
+        
 }
 
 a .navbar-brand {
